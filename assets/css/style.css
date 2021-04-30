@@ -156,3 +156,6 @@ img {
 .portfolio-detail__project-img {
   object-fit: contain;
 }
+.portfolio-1 p {
+  font-size: 16px;
+}
